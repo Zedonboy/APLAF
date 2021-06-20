@@ -1,9 +1,9 @@
 {
-  "name": "Next.JS Progressive Web App",
-  "short_name": "Next PWA",
+  "name": "Aplaf",
+  "short_name": "Aplaf",
   "theme_color": "#ffffff",
-  "background_color": "#004740",
-  "display": "fullscreen",
+  "background_color": "#000000",
+  "display": "standalone",
   "orientation": "portrait",
   "scope": "/",
   "start_url": "/",
